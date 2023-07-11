@@ -1,3 +1,2 @@
-# esercizio1
+# Esercizio di prova utilizzo git
 
-Questo è l'esercizio1
